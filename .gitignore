@@ -21,4 +21,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 
+#backup folder
+SH101_IO-backups/
 
