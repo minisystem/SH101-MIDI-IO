@@ -15,7 +15,7 @@ The project was designed in Kicad 6.0. The BOM and pos files for PCBA of the mod
 | J1 | 3.5 MM JACK | CUI SJ1-3523N |
 | J2 | 2.5 MM JACK | CUI SJ1-2503A |
 | J3 | 5 POS HEADER | 0.100" RIGHT ANGLE |
-| SM1-4 | 1.5 MM SPACER | SMTSO3015CTJ |
+| SM1-4 | 1.5 MM M3 SPACER | SMTSO3015CTJ |
 
 You'll also need a Type A 3.5 MM TRS MIDI cable and a 2.5 MM TRS MIDI cable if you want access to MIDI OUT data. The 2.5 MM TRS to MIDI cable isn't as widely availabe, but is used by a lot of IK Multimedia iRig series products.
 
@@ -24,6 +24,12 @@ You'll also need a Type A 3.5 MM TRS MIDI cable and a 2.5 MM TRS MIDI cable if y
 The PCB fabrication files are in the [gerbers](/gerbers/) folder. _SH101_IO.zip_ contains the gerber files for the 1 MM thick jack board and _SH101_MOD_GRIP_BOARD.zip_ contains the gerbers for the 1.6 MM modulation grip replacement board. 
 
 ## Assembly
+
+Once assembled, the PCB sandwich slides into guide slots of the plastic enclosure. Tape the original modulation grip jack board to the side of the enclosure. Use a 5 conductor connector assembly, crimp contacts, 0.100" pitch (TE 5-103975-4 or equivalent). Refer to the schematic and PCB markings for wiring order. The Type A TRS wiring is as follows:
+
+MIDI 4 (source) > RING
+MIDI 2 (shield) > SLEEVE
+MIDI 5 (sink) > TIP
 
 ![pcb guts](/sh-101-mod-guts-pcb.jpg)
 
