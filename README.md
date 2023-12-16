@@ -21,9 +21,12 @@ You'll also need a Type A 3.5 MM TRS MIDI cable and a 2.5 MM TRS MIDI cable if y
 
 ## PCBs
 
-The PCB fabrication files are in the [gerbers](/gerbers/) folder. _SH101_IO.zip_ contains the gerber files for the 1 MM thick jack board and _SH101_MOD_GRIP_BOARD_ contains the gerbers for the 1.6 MM modulation grip replacement board. 
+The PCB fabrication files are in the [gerbers](/gerbers/) folder. _SH101_IO.zip_ contains the gerber files for the 1 MM thick jack board and _SH101_MOD_GRIP_BOARD.zip_ contains the gerbers for the 1.6 MM modulation grip replacement board. 
 
 ## Assembly
+
+![pcb guts])/sh-101-mod-guts-pcb.jpg)
+
 
 
 
