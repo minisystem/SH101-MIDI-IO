@@ -25,7 +25,7 @@ The PCB fabrication files are in the [gerbers](/gerbers/) folder. _SH101_IO.zip_
 
 ## Assembly
 
-![pcb guts])/sh-101-mod-guts-pcb.jpg)
+![pcb guts](/sh-101-mod-guts-pcb.jpg)
 
 
 
