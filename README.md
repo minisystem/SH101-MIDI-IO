@@ -28,8 +28,11 @@ The PCB fabrication files are in the [gerbers](/gerbers/) folder. _SH101_IO.zip_
 Once assembled, the PCB sandwich slides into guide slots of the plastic enclosure. Tape the original modulation grip jack board to the side of the enclosure. Use a 5 conductor connector assembly, crimp contacts, 0.100" pitch (TE 5-103975-4 or equivalent). Refer to the schematic and PCB markings for wiring order. The Type A TRS wiring is as follows:
 
 MIDI 4 (source) > RING
+
 MIDI 2 (shield) > SLEEVE
+
 MIDI 5 (sink) > TIP
+
 
 ![pcb guts](/sh-101-mod-guts-pcb.jpg)
 
