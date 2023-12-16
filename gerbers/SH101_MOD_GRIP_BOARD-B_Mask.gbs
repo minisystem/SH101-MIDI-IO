@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,6.0.4-6f826c9f35~116~ubuntu18.04.1*%
+%TF.CreationDate,2023-11-26T11:14:00-05:00*%
+%TF.ProjectId,SH101_MOD_GRIP_BOARD,53483130-315f-44d4-9f44-5f475249505f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.4-6f826c9f35~116~ubuntu18.04.1) date 2023-11-26 11:14:00*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,4.220000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,SP2*%
+X8250000Y-30000000D03*
+%TD*%
+%TO.C,SP1*%
+X8250000Y-12250000D03*
+%TD*%
+%TO.C,SP4*%
+X32750000Y-30000000D03*
+%TD*%
+%TO.C,SP3*%
+X32750000Y-15250000D03*
+%TD*%
+M02*
